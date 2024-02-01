@@ -4,10 +4,11 @@
 
 | Group: Group Number      |
 |-----------------|
-| Student 1 name                |   
-| Student 2 name              |   
-| Student 3 name               |   
-| Student 4 name                |   
+| Jeremy Sugimoto                |   
+| Shad              |   
+| Redge Santillan               |   
+| Matt de                |   
+| Momin                |   
 
 
 **Table of Contents**
